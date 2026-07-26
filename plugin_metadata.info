@@ -1,0 +1,12 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-07-17
+
+[language.ini]
+language_name = INI
+language_short_name = INI
+monaco_language = ini
+default_filename = settings.ini
